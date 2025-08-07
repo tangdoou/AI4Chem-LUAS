@@ -1,9 +1,7 @@
 # AI4Chem@LUAS: A Framework for Chemical Experiment Automation
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ---
-
 ## 1. Introduction
 `AI4Chem@LUAS` is a framework for automating experiments using Large Language Models (LLMs). It allows users to define experiments and prompts in JSON configuration files and run them against various language models via the command line.
 
